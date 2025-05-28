@@ -1,0 +1,2 @@
+a="cars"
+print(a)
